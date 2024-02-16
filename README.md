@@ -51,6 +51,12 @@ The workflow of the model is as shown below:
 | Generation     | BARTPho    | ViT          | 384M   | 0.4975     | 0.4975     | 0.5788     | 2.1874     |
 | Generation     | BARTPho    | BEiT         | 384M   | **0.5698** | **0.5698** | **0.6269** | **2.6186** |
 
+### Examples
+
+![](./Images/example-1.png)
+![](./Images/example-2.png)
+![](./Images/example-3.png)
+
 # References
 
 1. [VinAIResearch/PhoBERT](https://github.com/VinAIResearch/PhoBERT)
