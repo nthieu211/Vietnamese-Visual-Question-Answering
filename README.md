@@ -44,6 +44,7 @@ The workflow of the model is as shown below:
 
 | Type           | Text Model | Vision Model | Params | WUPs       | EM         | F1         | CIDEr      |
 | -------------- | ---------- | ------------ | ------ | ---------- | ---------- | ---------- | ---------- |
+|Classification <td colspan=2>Hierarchical Co-Attention (baseline)|-|-|0.3496 |-|-|
 | Classification | PhoBERT    | ViT          | 222M   | 0.4646     | 0.4646     | 0.5157     | 2.0841     |
 | Classification | mBERT      | ViT          | 254M   | 0.5327     | 0.5327     | 0.5994     | 2.3944     |
 | Classification | mBERT      | BEiT         | 253M   | 0.4607     | 0.4607     | 0.5031     | 2.0601     |
